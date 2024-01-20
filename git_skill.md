@@ -19,3 +19,7 @@ git push origin development
 Conflict: when a file was modified in local and remote repository, and the modification was different. When we push the local repository to the remote repository, there will be 'conflict', then we must modify either the local or the remote repository to make them consistent before push the local to the remote. 
 [
 ](https://www.youtube.com/watch?v=5BwYTMVSPSk)https://www.youtube.com/watch?v=5BwYTMVSPSk
+
+
+https://opensource.com/article/23/4/resolve-git-merge-conflicts
+
