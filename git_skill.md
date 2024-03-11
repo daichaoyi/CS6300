@@ -28,3 +28,12 @@ Conflict: when a file was modified in local and remote repository, and the modif
 
 https://opensource.com/article/23/4/resolve-git-merge-conflicts
 
+
+White Box Test
+branch coverage technique:
+Branch coverage technique is a whitebox testing technique that ensures that every branch of each decision point must be executed.
+
+if (a<150)||(b<200){
+  for (i=a, i<100, i++)
+}
+  
