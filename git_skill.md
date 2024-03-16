@@ -36,4 +36,14 @@ Branch coverage technique is a whitebox testing technique that ensures that ever
 if (a<150)||(b<200){
   for (i=a, i<100, i++)
 }
+
   
+Condition —— a Boolean expression containing no Boolean operators：
+Decision —— a Boolean expression composed of conditions and zero or more Boolean operators：
+Modified Condition/Decision Coverage(MCDC) —— every point of entry and exit in the program has been invoked at least once，every condition in the program has taken all possible outcomes at least once，and each condition in a decision has been shown to independently affect a decision S outcome by varying just that condition while holding fixed all other possible conditions.MCDC: 
+
+
+
+
+
+
