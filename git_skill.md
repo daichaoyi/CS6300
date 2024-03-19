@@ -74,6 +74,7 @@ Modified Condition/Decision Coverage(MCDC) —— every point of entry and exit 
 
 
 
+<img width="1004" alt="Screenshot 2024-03-19 at 5 43 43 PM" src="https://github.com/daichaoyi/CS6300/assets/50822172/37fde252-b7d9-41aa-b294-02195695a5d6">
 
 
 
